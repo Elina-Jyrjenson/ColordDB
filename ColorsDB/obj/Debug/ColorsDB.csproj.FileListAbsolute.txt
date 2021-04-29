@@ -1,0 +1,12 @@
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\bin\Debug\Colors.mdf
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\bin\Debug\Colors_log.ldf
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\bin\Debug\ColorsDB.exe.config
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\bin\Debug\ColorsDB.exe
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\bin\Debug\ColorsDB.pdb
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\obj\Debug\ColorsDB.csprojAssemblyReference.cache
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\obj\Debug\ColorsDB.Properties.Resources.resources
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\obj\Debug\ColorsDB.csproj.GenerateResource.cache
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\obj\Debug\ColorsDB.csproj.CoreCompileInputs.cache
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\obj\Debug\ColorsDB.exe
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\obj\Debug\ColorsDB.pdb
+C:\Users\Elina\Desktop\TTHK\tarkvaraarendus\ColorsDB\ColorsDB\obj\Debug\ColorsDB.Form1.resources
